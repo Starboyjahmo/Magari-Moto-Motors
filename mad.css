@@ -1,0 +1,16 @@
+
+
+  *{padding: 0px;
+}
+body{
+    align-items:f;
+    font-family:poppins , sans-serif;
+    justify-content:flex-start;
+    display: flex;}
+    .cover{
+        width: 800px;
+        height: 500px;
+        margin-top:50px;
+        display:flex;
+    }
+
